@@ -7,6 +7,6 @@
 ping 127.0.0.1
 ```
 
-- [ ] Finish this guide
+- [X] Finish this guide
 - [ ] Make more repos
 - [ ] Reconsider life decisions
